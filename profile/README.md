@@ -16,7 +16,6 @@ Home of **TimSim 2.0**, a simulator for LC-IMS-MS proteomics raw data, and the p
 - [timsim-necro](https://github.com/MS-Simulation/timsim-necro): the simulator as a [necroflow](https://github.com/MatteoLacki/necroflow) DAG
 - [timsim-gui](https://github.com/MS-Simulation/timsim-gui): Sample & Experiment Designer web GUI
 - [timsim-eval](https://github.com/MS-Simulation/timsim-eval): evaluation against ground truth (DIA-NN, Sage, FragPipe)
-- [timsim-bench](https://github.com/MS-Simulation/timsim-bench): post-processing of search results on simulated data
 
 ### Vendor formats
 - [sciexwiff](https://github.com/MS-Simulation/sciexwiff), [sciex-io](https://github.com/MS-Simulation/sciex-io): SCIEX .wiff
